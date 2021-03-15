@@ -44,8 +44,8 @@ You can find the trailer for this game [here](https://www.youtube.com/watch?v=cW
 
 And the running game (with some very nice poishes from Seb) [here](https://shytea.itch.io/flappybird2 "here") on itch.io.
 
-<img src="/FlappyBirdNewspaper.png" alt="FlappyBirdNewspaper" width="400"/>
-<img src="/FlappyBird.png" alt="FlappyBird" width="800"/>
+<img src="/FlappyBirdNewspaper.jpeg" alt="FlappyBirdNewspaper" width="400"/>
+<img src="/FlappyBird.jpeg" alt="FlappyBird" width="800"/>
 
 ### Brainfuck Planet
 
