@@ -51,7 +51,7 @@ I did parts of the shader and designed the riddles you have to solve to escape t
 You can find the trailer for this game [here](https://www.youtube.com/watch?v=cWZ3SMBPXlU&ab_channel=ShyTeaGames "here").
 
 
-And the running game (with some very nice poishes from Seb) [here](https://shytea.itch.io/flappybird2 "here") on itch.io.
+And the running game (with some very nice polishes from Seb) [here](https://shytea.itch.io/flappybird2 "here") on itch.io.
 
 <img src="/FlappyBirdNewspaper.jpeg" alt="FlappyBirdNewspaper" width="400"/>
 <img src="/FlappyBird.jpg" alt="FlappyBird" width="800"/>
