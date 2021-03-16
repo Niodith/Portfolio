@@ -30,7 +30,7 @@ Apart from my usual role as last minute bug fixer I was mainly responsible for t
 
 
 ### Galactinder
-#### Theme: Attraction - taken way to directly
+#### Theme: Attraction - taken way to literally
 
 Totally coincidence that this game shares part of its name with a well known dating app - _well_ it is a dating app - but on intergalactic level!
 With an intuitive UI you are able to choose your prefered type of alien - and get one of 36000 procedurally generated matches.
