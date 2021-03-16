@@ -8,6 +8,7 @@ Most are games but there are some more conventional projects.
 [Here](https://github.com/Niodith/Portfolio/tree/master/GameBuilds "Game builds") you can find the last running builds of mainly Game Jam projects which were made in collaboration with artist and other programmers.
 The [GameJams](https://www.semestergamejam.de/events/previous-events/ "GameJams") were roundaboud 100 participants in 20 - 30 teams.
 
+
 ### Ered Engrin
 #### 3. Place Theme: Discovery
 [Ered Engrin](https://github.com/Niodith/Portfolio/tree/master/GameBuilds/EredEngrin.zip "Ered Engrin") was without a doubt the most successful Game Jam Game I have been part of.
@@ -16,6 +17,7 @@ The whole game is more based on a well-rounded overall experience than fancy gam
 <img src="/EredEngrinStart.png" alt="EredEngrinStart" width="800"/>
 <img src="/EredEngrinMonster.png" alt="EredEngrinMonster" width="800"/>
 <img src="/EredEngrinIce.png" alt="EredEngrinIce" width="800"/>
+
 
 ### Freezing Goats
 #### No price but lots of fun
@@ -38,6 +40,7 @@ You can find the build of Galactinder [here](https://github.com/Niodith/Portfoli
 <img src="/GalactinderMatchingMenu.png" alt="MatchingMenu" width="800"/>
 <img src="/GalactinderMatching.png" alt="Match" width="800"/>
 
+
 ### Flappy Bird 2.0
 #### Theme: Nightmare - honorable mention
 
@@ -53,6 +56,7 @@ And the running game (with some very nice poishes from Seb) [here](https://shyte
 <img src="/FlappyBirdNewspaper.jpeg" alt="FlappyBirdNewspaper" width="400"/>
 <img src="/FlappyBird.jpg" alt="FlappyBird" width="800"/>
 
+
 ### Brainfuck Planet
 #### 3. Place - Theme: Depth
 
@@ -62,6 +66,7 @@ Sadly I have no running build anymore because it requires a very old unity versi
 
 <img src="/BrainFuckPlanet.png" alt="BrainFuckPlanet" width="800"/>
 <img src="/BrainFuckPlanetAction.png" alt="BrainFuckPlanetAction" width="800"/>
+
 
 ## Conventional projects
 
