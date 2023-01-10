@@ -1,12 +1,12 @@
 # Portfolio
 
-In this repository you are able to get a rough overview about my last projects.
+In this repository you are able to get a rough overview of my last projects.
 Most are games but there are some more conventional projects.
 
 ## Game Builds to have some fun
 
-[Here](https://github.com/Niodith/Portfolio/tree/master/GameBuilds "Game builds") you can find the last running builds of mainly Game Jam projects which were made in collaboration with artist and other programmers.
-The [GameJams](https://www.semestergamejam.de/events/previous-events/ "GameJams") were roundaboud 100 participants in 20 - 30 teams.
+[Here](https://github.com/Niodith/Portfolio/tree/master/GameBuilds "Game builds") you can find the last running builds of mainly Game Jam projects which were made in collaboration with artists and other programmers.
+The [GameJams](https://www.semestergamejam.de/events/previous-events/ "GameJams") were roundabout 100 participants in 20 - 30 teams.
 
 
 ### Ered Engrin
