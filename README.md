@@ -61,7 +61,7 @@ And the running game (with some very nice polishes from Seb) [here](https://shyt
 ### Brainfuck Planet
 #### 3. Place - Theme: Depth
 
-Brainfuck Planet is a platformer with a high atmospheric value - the artists design interplays with sound and enemy design. I was part of the overall design, the sound and last minuite bugfixing as well as for the naming (I can't believe people trusted me with naming things again after _this_).
+Brainfuck Planet is a platformer with a high atmospheric value - the artists design interplays with sound and enemy design. I was part of the overall design, the sound and last minute bug fixing as well as for the naming (I can't believe people trusted me with naming things again after _this_).
 
 Sadly I have no running build anymore because it requires a very old unity version (4+ years).
 
@@ -74,20 +74,20 @@ Sadly I have no running build anymore because it requires a very old unity versi
 ### NLP
 
 In collaboration with a fellow class mate I supported with the technical implemantation of a natural processing AI in python.
-It was mostly setting up a working linux enviorment with enough computing power - it was a fun side project and a good digression into data science and more python.
+It was mostly setting up a working linux environment with enough computing power - it was a fun side project and a good digression into data science and more python.
 
 ### Thesis for Computer Science Expert for Software Development
 
-My thesis was related to my workplace in the automotive industry - it is an AR table for trade fair usage to show connected vehicles. The project was done in C# in unity with a small test framework.
+My thesis was related to my workplace at the time in the automotive industry - it is an AR table for trade fair usage to show connected vehicles. The project was done in C# in unity with a small test framework.
 
 ## My current work
 
-After working some years in the automotive industry as an software developer and technical artist in an agile enviorment (which is important for me in as a Professional Scrum Developer and "agile native") I was able to get closer to my childhood dream occupation.
+After working some years in the automotive industry as a software developer and technical artist in an agile environment (which is important for me in as a Professional Scrum Developer and "agile native") I was able to get closer to my childhood dream occupation.
 
 I am currently working in an XR department of a small and innovative company as an XR application and game developer but am still looking for *the* true game job.
 
 My skillset includes coding in C++ (also experience with embedded), C#, Lua, Python and GLSL/HLSL, Unity development (C#), native API development (C++),  writing tests and tooling in Python and C++ as well as working with Lua and GLSL as a technical artist.
 
-The automotive industry is very heavy with clean code and testing which a both important for healthy code - I was part of a team that reviews code according to automotive standarts and clean code for C++.
+The automotive industry is very heavy with clean code and testing which are both important for healthy code - I was part of a team that reviews code according to automotive standards and clean code for C++.
 In the XR development team my focus is to help quickly in multiple projects in critical situations to avoid escalation as well as optimization and and code maintainability.
 Both industries provided me with one of the best parts of being a developer (for me): Fixing tricky bugs and working with legacy code no one is able to understand.
