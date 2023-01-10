@@ -78,11 +78,16 @@ It was mostly setting up a working linux enviorment with enough computing power 
 
 ### Thesis for Computer Science Expert for Software Development
 
-My thesis was related to my workplace in the automotive industry - it is an AR table for fare trade usage to show connected vehicles. The project was done in C# in unity with a small test framework.
+My thesis was related to my workplace in the automotive industry - it is an AR table for trade fair usage to show connected vehicles. The project was done in C# in unity with a small test framework.
 
 ## My current work
 
-I am currently working in the automotive industry as an software developer and technical artist in an agile enviorment (which is important for me in as a Professional Scrum Developer and "agile native").
-My main technologies are coding in hardware with C++, writing tests and tooling in Python and C++ as well as working with Lua and GLSL as a technical artist.
+After working some years in the automotive industry as an software developer and technical artist in an agile enviorment (which is important for me in as a Professional Scrum Developer and "agile native") I was able to get closer to my childhood dream occupation.
 
-The automotive industry is very heavy with clean code and testing which a both important for healthy code - I am part of a team that reviews code according to automotive standarts and clean code for C++.
+I am currently working in an XR department of a small and innovative company as an XR application and game developer but am still looking for *the* true game job.
+
+My skillset includes coding in C++ (also experience with embedded), C#, Lua, Python and GLSL/HLSL, Unity development (C#), native API development (C++),  writing tests and tooling in Python and C++ as well as working with Lua and GLSL as a technical artist.
+
+The automotive industry is very heavy with clean code and testing which a both important for healthy code - I was part of a team that reviews code according to automotive standarts and clean code for C++.
+In the XR development team my focus is to help quickly in multiple projects in critical situations to avoid escalation as well as optimization and and code maintainability.
+Both industries provided me with one of the best parts of being a developer (for me): Fixing tricky bugs and working with legacy code no one is able to understand.
