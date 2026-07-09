@@ -3,13 +3,14 @@
 # Portfolio
 
 In this repository you are able to get a rough overview of my background and journey as a software developer.
+
 Most projects linked in this repository are old game jam and "just for fun" projects that are no longer maintained but were among my first game development projects, a small time capsule from the beginning of my development journey.
 
 ---
 
 # About me
 
-I am Feli, an experienced software developer and **Engineering Lead** at Forgotten Empires.
+I am Feli, an experienced software developer and **Engineering Lead** at **Forgotten Empires**.
 
 My programming journey began ~20 years ago at the age of 8, when I started modding *Neverwinter Nights*. This early passion for programming continued to grow, eventually leading me to a career in software development. My first professional role was at **Magna Telemotive** in the automotive industry, where I spent several years before transitioning to **Usaneers**, an XR prototyping company. After a pivotal year there, I successfully moved into the games industry, joining **Forgotten Empires**, where I now serve as an **Engineering Lead**.
 
@@ -19,10 +20,14 @@ A core principle of mine is continuous learning and growth both for myself but a
 - C++ (embedded and game development)
 - C# (specialized in Unity3D development)
 - Python (tooling and automation)
+- Lua (tooling)
 - Java/Groovy (CI pipeline development)
-- Git, Perforce
+- Git, Perforce (P4)
 - Jira/Confluence
+- Agile development and project management
 - Certified Professional Scrum Developer I
+- Clean code
+- AUTOSAR/MISTRA
 
 ---
 
@@ -40,56 +45,112 @@ My role extends beyond the programming team: I hold **technical responsibility**
 
 ---
 
-## Age of Mythology: Retold
-<img src="Assets/retold.png" alt="Age of Mythology" width="800"/>
+<p align="center">
+<img src="Assets/retold.png" alt="Age of Mythology" width="400"/>
+</p>
 
-**Gameplay programming, UI, bug fixing, OOS, OOS tooling, pathfinding**
-Collaborated with other departments to deliver a polished and performant experience.
+## Age of Mythology: Retold
+### Released September 2024  
+[*Age of Mythology: Retold*](https://store.steampowered.com/app/1934680/Age_of_Mythology_Retold/ "Age of Mythology: Retold")
+
+Developed gameplay systems, UI components, and pathfinding in C++ using the proprietary **BANG!** engine. 
+
+Focused heavily on bug fixing and the final push before launch to reduce bugs, desyncs, and improve overall stability. 
+
+Created OOS (Out-of-Sync) detection and tooling in Python to ensure multiplayer stability. 
+
+Used Azure DevOps (ADO) and Perforce for version control. 
+
+Collaborated across disciplines to deliver a polished and performant experience.
 
 ---
+<p align="center">
+<img src="Assets/infernals.png" alt="Infernals" width="400"/>
+</p>
 
 ## Stellaris: Infernals Species Pack
-<img src="Assets/infernals.png" alt="Infernals" width="800"/>
+### Released November 2025  
+[Infernals Species Pack](https://store.steampowered.com/app/3283220/Stellaris_Infernals_Species_Pack/ "Infernals Species Pack")
 
-**Lead of a small programming team** and **technical lead** for cross-discipline developers.
-Created **Git guides** and **onboarding materials**, managed the release process, and authored **dev diaries** to communicate progress.
+
+Led a **core programming team** and served as **technical lead** for ~20 cross-discipline developers. 
+
+Developed in **C++** using the proprietary **Clausewitz engine** while maintaining clear communication with stakeholders to meet and exceed all expectations. 
+
+Created **Git guides** and **onboarding materials** to streamline team integration. 
+
+Managed the **release process** and **post-launch support**.
+
+[![Infernals Species Pack Developer Diary](https://img.youtube.com/vi/b78GvUR4SD4/0.jpg)](https://youtu.be/b78GvUR4SD4)
 
 ---
-## Stellaris: Scenarios Pack
-<img src="Assets/scenario.png" alt="Scenarios" width="800"/>
 
-Led a **slightly larger team** and defined the **technical architecture and system concepts** for the project.
+<p align="center">
+<img src="Assets/scenario.png" alt="Scenarios" width="400"/>
+</p>
+
+## Stellaris: Scenarios Pack
+### Coming soon  
+
+[Stellaris: Scenario Pack 1](https://store.steampowered.com/app/4241450/Stellaris_Scenario_Pack_1/ "Stellaris: Scenario Pack 1") and [*Stellaris: Scenario Pack 2*](https://store.steampowered.com/app/4355700/Stellaris_Scenario_Pack_2/ "Stellaris: Scenario Pack 2")
+
+Leading a **larger programming team** and defining the **technical architecture** and **system concepts** for the project inside **Paradox's Clausewitz engine**. 
+
+Integrating **new complex modding and additional content systems** into the existing codebase without breaking existing functionality. 
+
+Coordinating **cross-discipline efforts**, especially during pre-production, and managed **stakeholder relationships**.
 
 ---
 ## Stellaris: Additional Support
 
-For the *Stellaris Nomads* and *Biogenesis* expansions, I contributed as part of the **additional support team**, focusing on **bug fixing** and leveraging my experience with legacy codebases to ensure stable launches. I also **led performance improvement efforts**, where our team achieved a **10% reduction in frame time** across all cases through string optimizations.
+Contributed as part of the **additional support team** for the *Stellaris Nomads* and *Biogenesis* expansions, focusing on **bug fixing** and leveraging experience with **legacy codebases** to ensure stable launches. 
+
+Led **performance improvement efforts** that achieved a **10% reduction in frame time** across all cases through **string optimizations**.
 
 ---
 ## Unannounced Project
 
-Currently leading a **small team of senior programmers** specializing in **optimization and rendering** for a project facing performance challenges.
-I manage **stakeholder relationships**, remove impediments for the engineering team, and maintain high work quality. Additionally, I **review proposed performance changes** and **pitch solutions** tailored to both technical and non-technical audiences.
+Currently leading a **small team of senior programmers** specializing in **optimization and rendering** for a project facing performance challenges. 
+
+Managing **stakeholder relationships** while removing impediments for the engineering team, and maintaining high work quality. 
+
+Reviewing **proposed performance changes** and **pitch solutions** tailored to both technical and non-technical audiences.
 
 ---
 # My time before game development
 
 ## Automotive Industry
+### Magna Telemotive GmbH
 
-I began my career with **embedded software development** in the automotive industry, where I worked in an **agile environment**. This experience solidified my expertise as a **Professional Scrum Developer** [Certification](https://www.scrum.org/user/575726 "Certification") and deepened my understanding of agile workflows.
+Developed **Instrument Cluster Human-Machine-Interface (IC HMI) software** in embedded **C++** according to **MISRA** and **AUTOSAR** standards. 
 
-The automotive industry places a strong emphasis on **clean code and testing**, both of which are critical for maintaining healthy codebases. I was part of a team responsible for **reviewing code** against automotive standards and **C++ clean code** guidelines. During this time, I also **introduced a dedicated code quality review process** to elevate our development practices.
+Established a code quality focused review process to adhere to the required guidelines. 
 
+Handled **specification and requirements engineering** using IBM Doors. 
+
+Implemented **automated testing** with Google Test (gtest). 
+
+Worked in **agile environments**, earning my **Professional Scrum Developer I** certification. 
+
+Resolved complex **bugs** across multiple systems and quickly adapted to **different projects and codebases**. 
+
+Developed **tooling** in Python, Lua, and Groovy, as well as **prototypes** in Unity using C#. 
+
+Managed workflows using **Jira, Confluence**, and **Git**, including an in-house **Jira** certification.
+
+Bridged **SVN** and **Git** workflows to maintain smooth collaboration across teams with a combined size of around 100 programmers.
+
+---
 ## XR Development
+### Usaneers GmbH
 
-At **Usaneers**, my role focused on **rapid iteration** in multiple projects during critical phases, as well as **optimization and code maintainability**. This experience, combined with my time in automotive, reinforced one of my favorite aspects of development: **solving tricky bugs and working with legacy code** that others find challenging.
+Developed **Android and iOS applications** in **Unity** using an in-house MVVM-based framework in **C#**, including the company's first game, [*Weltensammler AR*](https://www.hugendubel.de/de/category/95701/ar_game.html "Weltensammler AR"). 
 
-**Technologies and platforms:**
-- Unity3D, Unreal Engine
-- Hololens, NReal, Varjo
-- Developed *iOS AR applications*
-- Delivered **fast-prototyping projects** for automotive showcases
+Created **AR and VR applications** for virtual training in medicine and industry like [*RemAid*](https://www.remaid.io "RemAid") using **Unity** and **C#**, deployed on **Varjo XR glasses, HoloLens, and NReal**. 
 
+Delivered **rapid prototypes** for XR showcases at trade fairs using **Git**.
+
+---
 
 # (Old) Game Jam Projects
 
