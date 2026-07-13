@@ -1,0 +1,15 @@
+[submodule "NLPPaper"]
+	path = NLPPaper
+	url = https://github.com/Niodith/NLPPaper.git
+[submodule "FreezingGoats"]
+	path = FreezingGoats
+	url = https://github.com/Niodith/FreezingGoats.git
+[submodule "Cooles-Guldr-ber-Spiel"]
+	path = Cooles-Guldr-ber-Spiel
+	url = https://github.com/Wacken/Cooles-Guldr-ber-Spiel.git
+[submodule "SpookyWoodsGaem"]
+	path = SpookyWoodsGaem
+	url = https://github.com/Niodith/SpookyWoodsGaem.git
+[submodule "PatchBot"]
+	path = PatchBot
+	url = https://github.com/Niodith/PatchBot.git
